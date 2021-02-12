@@ -2,6 +2,9 @@
 
 adds variant for the `:target` pseudo-class
 
+https://github.com/MathGeniusJodie/tailwindcss-target-variant
+https://www.npmjs.com/package/tailwindcss-target-variant
+
 # usage
 
 in tailwind.config.css
