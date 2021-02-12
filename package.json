@@ -1,6 +1,6 @@
 {
 	"name": "tailwindcss-target-variant",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "adds variant for the `:target` pseudo-class",
 	"repository": "",
 	"main": "index.js",
