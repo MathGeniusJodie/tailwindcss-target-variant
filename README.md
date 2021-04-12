@@ -15,7 +15,7 @@ module.exports = {
 		targetVariant,
 	],
 	variants: {
-		display: ["target"],
+		display: ["target","group-target"],
 	},
 };
 ```
@@ -23,5 +23,6 @@ module.exports = {
 in html
 
 ```html
-<div class="hidden target:block"></div
+<div class="hidden target:block"></div>
+<div class="hidden group-target:block"></div
 ```

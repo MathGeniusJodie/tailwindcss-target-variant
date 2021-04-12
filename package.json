@@ -1,18 +1,19 @@
 {
 	"name": "tailwindcss-target-variant",
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"description": "adds variant for the `:target` pseudo-class",
 	"repository": "https://github.com/MathGeniusJodie/tailwindcss-target-variant",
 	"main": "index.js",
 	"scripts": {
-		"build": "npx prettier --use-tabs --write ./*.js"
+		"build": "npx prettier --use-tabs --write ./*.js*"
 	},
 	"contributors": [
-		"Jodie <https://github.com/MathGeniusJodie>"
+		"Jodie <https://github.com/MathGeniusJodie>",
+		"Scott Owens <https://github.com/Maldris>"
 	],
 	"license": "BSD0",
 	"devDependencies": {
-		"postcss": "^8.2.6",
+		"postcss": "^8.2.10",
 		"tailwindcss": "^2.0.3",
 		"tailwindcss-rtl": "^0.7.3"
 	}
